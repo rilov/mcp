@@ -1,0 +1,11 @@
+# Virtual environment folders
+venv/
+.env/
+env/
+.venv/
+ENV/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
