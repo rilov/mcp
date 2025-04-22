@@ -12,7 +12,7 @@ import os
 from langchain_openai import ChatOpenAI
 
 
-os.environ["OPENAI_API_KEY"] = "[your_openai_api_key]"
+os.environ["OPENAI_API_KEY"] = ""
 
 
 model = ChatOpenAI(model="gpt-4o",base_url="http://127.0.0.1:5000")
