@@ -5,7 +5,7 @@ This project help you to understand MCP and explains  how  to **trace API calls*
 It includes:
 
 - A **proxy server** that intercepts and logs OpenAI API traffic
-- An **MCP client** that uses LangChain agents to interact with tools
+- An **MCP client** that uses LangChain agents to interact with tools .. replace the openai key with your api key ..
 - A **basic weather tool server** exposed via the MCP protocol
 
 ---
