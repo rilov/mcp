@@ -1,4 +1,4 @@
-# 🛰️ MCP Trace Demo with LangChain
+# 🛰️ MCP   with LangChain
 
 This project help you to understand MCP and explains  how  to **trace API calls** made from LangChain's MCP (Model Context Protocol) modules using a simple proxy setup. This will help you to understand the MCP and how the model interacts with it.
 
