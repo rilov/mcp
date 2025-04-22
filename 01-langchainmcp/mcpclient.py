@@ -12,10 +12,8 @@ import os
 from langchain_openai import ChatOpenAI
 
 
+os.environ["OPENAI_API_KEY"] = "[your_openai_api_key]"
 
-os.environ["OPENAI_API_KEY"] = "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"
-#os.environ["LANGCHAIN_TRACING_V2"] = "true"
-#os.environ["LANGCHAIN_API_KEY"]="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"
 
 model = ChatOpenAI(model="gpt-4o",base_url="http://127.0.0.1:5000")
 
